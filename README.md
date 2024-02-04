@@ -10,6 +10,4 @@
 
 Ютуб с информацией о релизах и подобном: https://www.youtube.com/channel/UCD7fBP4raUhK5uuozlG3f4g
 
-![GitHub metrics](https://metrics.lecoq.io/zaralX) 
-
 ![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaralX&langs_count=5&layout=compact&theme=github_dark&hide_border=true)
