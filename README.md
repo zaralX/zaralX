@@ -5,5 +5,4 @@ Telegram: [@underzaral](https://t.me/underzaral)
 
 Check out my GitLab: [zaralXlab](https://gitlab.com/zaralXlab)  
 
-### Skills  
-See my actual skills on my website: [About Me](https://zaralx.ru)  
+![stats](https://stats.hyo.dev/api/github-stats-advanced?login=zaralX)
