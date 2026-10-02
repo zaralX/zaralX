@@ -5,4 +5,4 @@ Telegram: [@underzaral](https://t.me/underzaral)
 
 Check out my GitLab: [zaralXlab](https://gitlab.com/zaralXlab)  
 
-![stats](https://stats.hyo.dev/api/github-stats?login=zaralX)
+[![zaralX stats](https://zaralx.ru/api/card.svg)](https://zaralx.ru)
